@@ -8,8 +8,6 @@
 ![image]({https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black})
 ![image]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={delta-decode}&theme=vue
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/uczsl5tbgva4b9i0rtakusew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczsl5tbgva4b9i0rtakusew" height="30" width="40" /></a>
