@@ -3,14 +3,12 @@
 - - I’m currently working on rapid:code
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href=https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
-<a href=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-<a href=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
-<a href=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-</p>
+<img src="{https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white}" />
+<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black}" />
+<img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={delta-decode}&theme=vue
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
