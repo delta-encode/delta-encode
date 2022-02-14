@@ -9,7 +9,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="center" src="https://simpleicons.org/icons/lua.svg" alt="uczsl5tbgva4b9i0rtakusew" height="30" width="40" /></a>
 <img align="center" src="https://simpleicons.org/icons/html5.svg" alt="rapidcode" height="30" width="40" /></a>
