@@ -10,3 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img height="32" width="32" src="https://simpleicons.org/icons/lua.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/mysql.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
