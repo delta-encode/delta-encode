@@ -9,4 +9,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-src="https://simpleicons.org/icons/lua.svg" alt="lua" width="40" height="40"/> </a> </p>
+<img height="32" width="32" src="https://simpleicons.org/icons/lua.svg" />
