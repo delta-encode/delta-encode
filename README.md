@@ -7,3 +7,6 @@
 <a href="https://www.youtube.com/c/uczsl5tbgva4b9i0rtakusew" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="uczsl5tbgva4b9i0rtakusew" height="30" width="40" /></a>
 <a href="https://discord.gg/rapidcode" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="rapidcode" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+src="https://simpleicons.org/icons/lua.svg" alt="lua" width="40" height="40"/> </a> </p>
