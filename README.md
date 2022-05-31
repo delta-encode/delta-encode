@@ -1,7 +1,5 @@
-<h1 align="center">delta-decode profile</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=delta-encode&show_icons=true&theme=dark" >
-<h3 align="left">A passionate frontend developer</h3>
--I'm currently focusing on the rd-mta project.
+<h1 align="center">deltathewoo:cold_face:</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=deltathewoo&show_icons=true&theme=github_dark " >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
